@@ -12,4 +12,4 @@ game.settings = {
     gameTimer: 60000    
 }
 
-let keySpace, keyLEFT, keyRIGHT;
+let keySpace, keyEnter, keyLEFT, keyRIGHT, keyLEFT1, keyRIGHT1;
